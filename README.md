@@ -48,24 +48,18 @@ A collection of text documents from different discussion topics. Create word clo
 
 Using a suitable social media marketing dataset to analyze campaign performance across different platforms.
 
-#### a.
-Create visualizations for reach, engagement, clicks, conversions, website traffic, and PPC performance, along with suitable KPI indicators.
+#### a. Create visualizations for reach, engagement, clicks, conversions, website traffic, and PPC performance, along with suitable KPI indicators.
 
-#### b.
-Add interactive filters to compare social media platforms, campaigns, and time periods, and combine the visualizations into an interactive dashboard.
+#### b. Add interactive filters to compare social media platforms, campaigns, and time periods, and combine the visualizations into an interactive dashboard.
 
-#### c.
-Analyze the dashboard to identify campaign trends, engagement patterns, traffic variations, conversion performance, and key marketing insights.
+#### c. Analyze the dashboard to identify campaign trends, engagement patterns, traffic variations, conversion performance, and key marketing insights.
 
 ### 12. Create a Tableau 360-View Account Management Dashboard
 
 Using a suitable customer/account dataset to provide a comprehensive view of account information and business performance.
 
-#### a.
-Create visualizations for account value, customer lifetime value, sales performance, organizational structure, and key account indicators.
+#### a. Create visualizations for account value, customer lifetime value, sales performance, organizational structure, and key account indicators.
 
-#### b.
-Add interactive filters to explore individual accounts, customer segments, business units, and performance indicators, and combine the visualizations into an interactive dashboard.
+#### b. Add interactive filters to explore individual accounts, customer segments, business units, and performance indicators, and combine the visualizations into an interactive dashboard.
 
-#### c.
-Analyze the dashboard to identify account performance, customer value, organizational patterns, and important indicators that support effective account management and decision-making.
+#### c. Analyze the dashboard to identify account performance, customer value, organizational patterns, and important indicators that support effective account management and decision-making.
